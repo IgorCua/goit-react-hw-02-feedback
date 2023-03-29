@@ -7,7 +7,7 @@ import { Children } from "react";
 export const Section = ({title, children}) => {
     return (
         <section className={style.feedback}>
-            <h1 className={style.titleMain}>{title}</h1>
+            <h1 className={style.title}>{title}</h1>
             {children}
         </section>
     )

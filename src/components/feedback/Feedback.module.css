@@ -1,9 +1,0 @@
-.btn{
-    height: 40px;
-
-    
-}
-
-.btn:not(:last-child){
-    margin-right: 15px;
-}
