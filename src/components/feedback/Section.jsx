@@ -1,8 +1,4 @@
-import PropTypes from "prop-types";
 import style from "./Section.module.css";
-import { FeedbackOptions } from "./FeedbackOptions";
-import { Statistics } from "./Statistics";
-import { Children } from "react";
 
 export const Section = ({title, children}) => {
     return (

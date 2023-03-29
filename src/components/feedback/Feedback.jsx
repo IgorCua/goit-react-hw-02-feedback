@@ -42,3 +42,9 @@ export class Feedback extends Component {
         )
     }
 }
+
+Section.propTypes = {
+    good: PropTypes.number,
+    neutral: PropTypes.number,
+    bad: PropTypes.number
+}
