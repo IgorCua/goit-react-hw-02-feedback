@@ -1,6 +1,5 @@
 import { Component } from "react";
 import { Feedback } from "./feedback/Feedback";
-import { Statistics } from "./feedback/Statistics";
 
 
 export class App extends Component {
